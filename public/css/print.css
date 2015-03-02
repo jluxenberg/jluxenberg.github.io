@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:900,300italic,300);
+
+body {
+  background: none;
+  font-size: 66%;
+}
+
+#content {
+  border: none;
+  font-family: 'Merriweather';
+  max-width: none;
+  padding: 0 0.5rem;
+}
+
+h1 {
+  border-bottom: 1px solid black;
+}
