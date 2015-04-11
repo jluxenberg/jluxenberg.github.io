@@ -10,7 +10,7 @@ Section 1.1 @ [http://mitpress.mit.edu/sicp/full-text/book/book-Z-H-10.html](htt
 # Getting Scheme on your laptop
 As you read thru it is really helpful (critical!) to be able to run the examples they give.
 
-Follow these steps to get a Scheme environment set-up where you can run code as you read through the book. We'll be using a Scheme implementation called Racket (http://download.racket-lang.org/) 
+Follow these steps to get a Scheme environment set-up where you can run code as you read through the book. We'll be using a Scheme implementation called [Racket](http://download.racket-lang.org/) 
 
 I'm going to assume you're on a Mac. If you're on Linux/Windows sorry! You can probably translate these steps pretty easily. Racket is available on Mac/Linux/Windows.
 
