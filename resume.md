@@ -1,6 +1,6 @@
 ---
-layout: no-sidebar
-title: About
+layout: resume
+title: Jared Luxenberg
 ---
 
 Jared Luxenberg
