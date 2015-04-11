@@ -37,7 +37,7 @@ Education
 
 Professional Experience
 -----------------------
-**Nest Labs, Inc.**, Software Engineer <span class="len">March 2010 - present</span>
+**Nest Labs, Inc.**, Software Engineer <span class="len">March 2011 - present</span>
 
 * Contributed code to Scala-based synchronization web service used by all Nest devices and apps
 * Responsible for setting code and Git commit log style guides
@@ -46,7 +46,7 @@ Professional Experience
 * Built software used to manage cloud-based deployment of web services
 * Developed and scaled a system capable of storing and processing log files from a large number of sources
 
-**Self**, Freelance Coding Contractor <span class="len">October 2009 - March 2010</span>
+**Self**, Freelance Coding Contractor <span class="len">November 2009 - March 2011</span>
 
 * Designed and built hardware and software solutions for Envision Telepharmacy
 * Developed reusable Javascript-based components for use in rich web applications
