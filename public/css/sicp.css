@@ -1,0 +1,10 @@
+html {
+    font-family: "Inconsolata", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+}
+
+.content {
+    max-width: 45rem;
+    margin-left: 20rem;
+    margin-right: 2rem;
+}
