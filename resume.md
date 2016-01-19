@@ -37,7 +37,13 @@ Education
 
 Professional Experience
 -----------------------
-**Nest Labs, Inc.**, Software Engineer <span class="len">March 2011 - present</span>
+**Twitter**, Software Engineer <span class="len">June 2015 - present</span>
+
+* Enhanced and maintained one of the largest systems at Twitter (the User service)
+* Worked to transition many internal stakeholders from a legacy audit log system
+* Documented internal processes and code for the benefit of other team members
+
+**Nest Labs, Inc.**, Software Engineer <span class="len">March 2011 - May 2015</span>
 
 * Contributed code to Scala-based synchronization web service used by all Nest devices and apps
 * Responsible for setting code and Git commit log style guides
