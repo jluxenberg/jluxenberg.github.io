@@ -50,7 +50,7 @@ Professional Experience
 * Led effort to use more modern Mapbox GL library for in-app map 
 * Provided feedback and direction on team members' code reviews
 
-**Twitter**, Software Engineer <span class="len">June 2015 - July 2016</span>
+**Twitter**, Senior Software Engineer <span class="len">June 2015 - July 2016</span>
 
 * Enhanced and maintained one of the largest systems at Twitter (the User service)
 * Worked to transition many internal stakeholders from a legacy audit log system
