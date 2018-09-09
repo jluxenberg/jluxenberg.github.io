@@ -32,12 +32,25 @@ Education
 **Carnegie Mellon University**, Class of 2008, Pittsburgh, PA
 *Bachelors of Science, Computer Science and Human Computer Interaction.*
 
-* QPA: 3.59
-
-
 Professional Experience
 -----------------------
-**Twitter**, Software Engineer <span class="len">June 2015 - present</span>
+
+**Scoot Networks**, Director of Engineering <span class="len">September 2018 - present</span>
+* Build the team that can scale Scoot's operations to many new cities and vehicles
+
+**Scoot Networks**, Engineering Manager <span class="len">April 2018 - September 2018</span>
+* Led team of 6 engineers focused on improving the Scoot rider experience
+* Designed and architected new React Native-based Rider App 
+* Worked closely with Product Manager to scope and prioritize features
+
+**Scoot Networks**, Consultant <span class="len">June 2016 - April 2018</span>
+
+* Identified projects to improve app-store reviews of the Scoot rider app 
+* Refactored and modularized (via adoption of React) legacy codebase 
+* Led effort to use more modern Mapbox GL library for in-app map 
+* Provided feedback and direction on team members' code reviews
+
+**Twitter**, Software Engineer <span class="len">June 2015 - July 2016</span>
 
 * Enhanced and maintained one of the largest systems at Twitter (the User service)
 * Worked to transition many internal stakeholders from a legacy audit log system
