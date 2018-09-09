@@ -65,13 +65,13 @@ Professional Experience
 * Built software used to manage cloud-based deployment of web services
 * Developed and scaled a system capable of storing and processing log files from a large number of sources
 
-**Self**, Freelance Coding Contractor <span class="len">November 2009 - March 2011</span>
+**Self**, Consultant <span class="len">November 2009 - March 2011</span>
 
 * Designed and built hardware and software solutions for Envision Telepharmacy
 * Developed reusable Javascript-based components for use in rich web applications
 * Worked with Gumstix embedded Linux platform to develop medical imaging devices
 
-**Amazon.com**, Software Development Engineer <span class="len">Sept. 2008 - Sept. 2010</span>
+**Amazon.com**, Software Engineer <span class="len">Sept. 2008 - Sept. 2010</span>
 
 * Developed and operated scalable, highly available services for the Elastic Compute Cloud
 * Coded / tested the algorithm that sets a market price for EC2's "Spot Instances" product
