@@ -21,11 +21,10 @@ San Francisco, CA 94110
 
 Objective
 ---------
-Improving the productivity of other developers. Bringing new ideas from conception to implementation.
-Making the world more magical; bringing about the future.
+Create an environment where talented people can come together to build great things. Mentor and train 
+engineers and managers. Foster collaboration and empower everyone on the team to do their best work.
 
 My areas of interest include data processing, highly available web services, and distributed systems design.
-
 
 Education
 ---------
