@@ -36,7 +36,7 @@ Technical Skills
 ----------------
 **Languages:** React Native, Scala, Ruby, Python, Java, Shell Scripting, SQL, HTML/CSS, JavaScript, C/C++
 
-**Software:** Git, Splunk, Emacs, Firebase, AWS, Google Cloud
+**Software:** Git, Splunk, Emacs
 
 Professional Experience
 -----------------------
@@ -85,3 +85,14 @@ Consultant <span class="len">June 2016 - April 2018</span>
 * Developed and operated scalable, highly available services for the Elastic Compute Cloud
 * Coded / tested the algorithm that sets a market price for EC2's "Spot Instances" product
 * Built internal reporting tools that were used to drive mission critical monitoring and business metrics
+
+**Green Hills Software**, Software Engineer Intern <span class="len">Summer 2007</span>
+
+* Learned how to program a system-on-a-chip device
+* Wrote low-level device driver (using C) for a proprietary realtime operating system used in anembedded
+environment
+
+**Yahoo Inc.**, Software Engineer Intern <span class="len">Summer 2006</span>
+
+* Learned PHP and contributed code to a multitiered PHP/Java system
+* Responsible for implementing an internal reporting system using PHP and Java
