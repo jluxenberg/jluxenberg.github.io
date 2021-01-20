@@ -17,7 +17,7 @@ Jared Luxenberg
 San Francisco, CA 94114
 </div>
 
-<div style="clear: both; margin-bottom: 0.5em;"> </div>
+<div style="clear: both;"> </div>
 
 Objective
 ---------
