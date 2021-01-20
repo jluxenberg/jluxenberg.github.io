@@ -13,8 +13,8 @@ Jared Luxenberg
 </div>
 
 <div>
-1356 Grove Street<br/>
-San Francisco, CA 94110
+4412 17th Street<br/>
+San Francisco, CA 94114
 </div>
 
 <div style="clear: both; margin-bottom: 0.5em;"> </div>
@@ -45,6 +45,8 @@ Professional Experience
 
 Director of Engineering <span class="len">September 2018 - September 2019</span>
 * Lead a team of frontend, backend, and data engineers focused on scaling Scoot's operations around the globe
+* Worked closely with my peers in product and design leadership to build a combined organization
+* Championed the adoption of OKRs to improve our planning process
 * Acquired by Birds Rides, Inc.
 
 Engineering Manager <span class="len">April 2018 - September 2018</span>
