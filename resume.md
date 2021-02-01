@@ -41,6 +41,11 @@ Technical Skills
 Professional Experience
 -----------------------
 
+**Self**, Consultant <span class="len">March 2020 - present</span>
+
+* Providing software and engineering management consulting services
+* Clients include The Primary School ([https://theprimaryschool.org/](https://theprimaryschool.org/)), SnoutID ([https://snoutid.com/](https://snoutid.com/)), Populus ([https://www.populus.ai/](https://www.populus.ai/))
+
 **Scoot Networks**
 
 Director of Engineering <span class="len">September 2018 - September 2019</span>
